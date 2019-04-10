@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h3>hello.jsp</h3>
-	<h3>ÀÌÅ¬¸³½º¿¡¼­ ¼öÁ¤ÇÑ ³»¿ë<h3>
+	<h3>ê¹ƒí—ˆë¸Œì—ì„œ ìˆ˜ì •í•œ <h3>
 </body>
 </html>
